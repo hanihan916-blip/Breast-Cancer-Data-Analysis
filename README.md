@@ -44,3 +44,6 @@ The project provides a clear visual understanding of breast cancer diagnostic da
 ## Conclusion
 
 This project demonstrates the use of Tableau for healthcare data analysis and visualization. By analysing tumour characteristics and comparing diagnosis categories, the dashboard presents meaningful insights in an understandable visual format. It is an educational data analysis project and is not intended for medical diagnosis or clinical decision-making.
+## Dashboard Screenshot
+
+![Breast Cancer Dashboard](breast-cancer-dashboard.png)
